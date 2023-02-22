@@ -32,7 +32,7 @@ export const Contact: React.FC = () => {
           <h1>
             <AnimatedLetters
               letterClass={''}
-              strArray={['C', 'o', 'n', 't', 'a', 'c', 't', ' ']}
+              strArray={['C', 'o', 'n', 't', 'a', 'c', 't', ' ' ,'M','e']}
               idx={15}
             />
           </h1>
